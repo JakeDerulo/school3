@@ -1,1 +1,1 @@
-Projekti 3 TO-DO listasta jQuery versio.
+Projekti 3: TO-DO listasta jQuery versio.
